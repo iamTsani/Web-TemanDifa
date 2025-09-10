@@ -1,0 +1,904 @@
+.landing-page {
+  	width: 100%;
+  	position: relative;
+  	background-color: var(--color-white);
+  	height: 385.438rem;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: var(--font-size-20);
+  	color: var(--color-white);
+  	font-family: var(--font-poppins);
+}
+.footer {
+  	position: absolute;
+  	top: 358.5rem;
+  	left: 0rem;
+  	width: 120rem;
+  	height: 26.938rem;
+  	font-size: var(--font-size-24);
+}
+.footer-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	background-color: var(--color-royalblue-100);
+  	width: 120rem;
+  	height: 26.938rem;
+}
+.temandifacom-hak-cipta {
+  	position: absolute;
+  	top: 22.5rem;
+  	left: calc(50% - 274px);
+  	line-height: 125%;
+  	font-weight: 600;
+}
+.logo {
+  	position: absolute;
+  	top: 1.313rem;
+  	left: 6.25rem;
+  	width: 9.625rem;
+  	height: 6rem;
+  	font-size: var(--font-size-20);
+}
+.teman-difa {
+  	position: absolute;
+  	top: 1.875rem;
+  	left: 5.125rem;
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.teman {
+  	margin: 0;
+}
+.logo04-1-icon {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	width: 6rem;
+  	height: 6rem;
+  	object-fit: cover;
+}
+.melihat-dengan-percaya-container {
+  	position: absolute;
+  	top: 8.063rem;
+  	left: 6.25rem;
+  	line-height: 125%;
+  	font-weight: 600;
+}
+.beranda {
+  	position: absolute;
+  	top: 5.188rem;
+  	left: 48.5rem;
+  	line-height: 125%;
+  	font-weight: 600;
+}
+.instagram {
+  	position: absolute;
+  	top: 5.188rem;
+  	left: 71.5rem;
+  	line-height: 125%;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 10.625rem;
+}
+.hellotemandifacom-wrapper {
+  	position: absolute;
+  	top: 7.938rem;
+  	left: 92rem;
+  	border-radius: var(--br-10);
+  	background-color: var(--color-white);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: var(--padding-10);
+  	color: var(--color-royalblue-100);
+}
+.hellotemandifacom {
+  	position: relative;
+  	line-height: 125%;
+}
+.bantuan {
+  	position: absolute;
+  	top: 5.25rem;
+  	left: 92rem;
+  	line-height: 125%;
+  	font-weight: 600;
+}
+.tentang-kami {
+  	position: absolute;
+  	top: 8.563rem;
+  	left: 48.5rem;
+  	line-height: 125%;
+  	font-weight: 600;
+}
+.tiktok {
+  	position: absolute;
+  	top: 8.563rem;
+  	left: 71.5rem;
+  	line-height: 125%;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 10.688rem;
+}
+.produk {
+  	position: absolute;
+  	top: 11.938rem;
+  	left: 48.5rem;
+  	line-height: 125%;
+  	font-weight: 600;
+}
+.linkedin {
+  	position: absolute;
+  	top: 11.938rem;
+  	left: 71.5rem;
+  	line-height: 125%;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 7.25rem;
+}
+.footer-item {
+  	position: absolute;
+  	top: 20.093rem;
+  	left: 12.219rem;
+  	border-top: 1px solid var(--color-white);
+  	box-sizing: border-box;
+  	width: 95.563rem;
+  	height: 0.063rem;
+}
+.landing-page-child {
+  	position: absolute;
+  	top: 266.563rem;
+  	left: -19.437rem;
+  	border-radius: 50%;
+  	background-color: var(--color-gold);
+  	width: 46.688rem;
+  	height: 46.688rem;
+}
+.cta {
+  	position: absolute;
+  	top: 296rem;
+  	left: 5.813rem;
+  	width: 108.125rem;
+  	height: 54.75rem;
+  	text-align: center;
+  	font-size: var(--font-size-32);
+}
+.cta-child {
+  	position: absolute;
+  	top: 0.313rem;
+  	left: 0.438rem;
+  	border-radius: 50px;
+  	background-color: var(--color-royalblue-100);
+  	width: 107.5rem;
+  	height: 54.438rem;
+}
+.langit-icon {
+  	position: absolute;
+  	top: 0.313rem;
+  	left: 0rem;
+  	border-radius: 50px;
+  	width: 108.125rem;
+  	height: 54.438rem;
+  	object-fit: cover;
+}
+.orang-icon {
+  	position: absolute;
+  	top: 0rem;
+  	left: calc(50% - 584px);
+  	width: 73.313rem;
+  	height: 54.75rem;
+  	object-fit: cover;
+}
+.aplikasi-yang-dirancang-container {
+  	position: absolute;
+  	top: 10.875rem;
+  	left: calc(50% - 556px);
+  	line-height: 125%;
+  	font-weight: 600;
+}
+.temandifa {
+  	position: absolute;
+  	top: 3.313rem;
+  	left: 41rem;
+  	width: 26.375rem;
+  	height: 4.5rem;
+  	text-align: left;
+  	font-size: var(--font-size-72);
+}
+.temandifa-child {
+  	position: absolute;
+  	top: 2.875rem;
+  	left: 15.25rem;
+  	background-color: var(--color-gold);
+  	width: 10.5rem;
+  	height: 1.625rem;
+}
+.landing-page-temandifa {
+  	position: absolute;
+  	top: 0rem;
+  	left: calc(50% - 211px);
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.landing-page-produk {
+  	position: absolute;
+  	top: 156.75rem;
+  	left: 8.938rem;
+  	width: 111.938rem;
+  	height: 135.25rem;
+  	font-size: var(--font-size-36);
+  	color: var(--color-gold);
+}
+.fitur-video-call {
+  	position: absolute;
+  	top: 81.313rem;
+  	left: 0rem;
+  	width: 53.188rem;
+  	height: 22.125rem;
+}
+.fitur-video-call-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	background-color: var(--color-royalblue-200);
+  	width: 50.563rem;
+  	height: 22.125rem;
+}
+.video-call-relawan {
+  	position: absolute;
+  	top: 1.875rem;
+  	left: 2.938rem;
+  	line-height: 125%;
+}
+.memberikan-opsi-untuk {
+  	position: absolute;
+  	top: 7rem;
+  	left: 2.375rem;
+  	line-height: 125%;
+  	font-weight: 500;
+  	color: var(--color-white);
+  	display: inline-block;
+  	width: 43.563rem;
+}
+.fitur-video-call-item {
+  	position: absolute;
+  	top: 4.688rem;
+  	left: 48.813rem;
+  	background-color: var(--color-gold);
+  	width: 4.375rem;
+  	height: 7.313rem;
+}
+.produk-child {
+  	position: absolute;
+  	top: 53.813rem;
+  	left: 59.625rem;
+  	border-radius: var(--br-30);
+  	background: linear-gradient(180deg, var(--color-royalblue-200) 6.25%, var(--color-darkslateblue) 63.94%);
+  	width: 43.5rem;
+  	height: 65.5rem;
+}
+.fitur-scan {
+  	position: absolute;
+  	top: 35.375rem;
+  	left: 47.563rem;
+  	width: 46.063rem;
+  	height: 21.063rem;
+  	color: var(--color-royalblue-100);
+}
+.fitur-scan-child {
+  	position: absolute;
+  	top: 2.125rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	background-color: var(--color-gold);
+  	width: 44.188rem;
+  	height: 18.938rem;
+}
+.scan-deteksi {
+  	position: absolute;
+  	top: 4.375rem;
+  	left: 2.25rem;
+  	line-height: 100%;
+}
+.memindai-dokumen-atau {
+  	position: absolute;
+  	top: 8.375rem;
+  	left: 2.25rem;
+  	font-size: var(--font-size-28);
+  	line-height: 125%;
+  	font-weight: 500;
+  	color: var(--color-black);
+  	display: inline-block;
+  	width: 38.313rem;
+}
+.fitur-scan-item {
+  	position: absolute;
+  	top: 0rem;
+  	left: 39.75rem;
+  	background-color: var(--color-royalblue-100);
+  	width: 6.313rem;
+  	height: 6.313rem;
+}
+.mockupp-voice-to-text {
+  	position: absolute;
+  	top: 49.563rem;
+  	left: 48.25rem;
+  	width: 55.875rem;
+  	height: 69.5rem;
+  	object-fit: contain;
+}
+.mockup-video-call {
+  	position: absolute;
+  	top: 61.813rem;
+  	left: 71.625rem;
+  	width: 40.313rem;
+  	height: 57.5rem;
+  	object-fit: cover;
+}
+.fitur-voice-to-text {
+  	position: absolute;
+  	top: 111.063rem;
+  	left: 27.188rem;
+  	width: 55.25rem;
+  	height: 24.188rem;
+  	color: var(--color-royalblue-100);
+}
+.fitur-voice-to-text-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	background-color: var(--color-gold);
+  	width: 50.563rem;
+  	height: 22.125rem;
+}
+.voice-to-text-container {
+  	position: absolute;
+  	top: 2.688rem;
+  	left: 5.625rem;
+  	line-height: 125%;
+}
+.mengubah-suara-menjadi {
+  	position: absolute;
+  	top: 10.938rem;
+  	left: 7.438rem;
+  	line-height: 125%;
+  	font-weight: 500;
+  	color: var(--color-black);
+  	display: inline-block;
+  	width: 41.063rem;
+}
+.fitur-voice-to-text-item {
+  	position: absolute;
+  	top: 20rem;
+  	left: 32.875rem;
+  	background-color: var(--color-royalblue-200);
+  	width: 22.375rem;
+  	height: 4.188rem;
+}
+.produk-item {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-30);
+  	background: linear-gradient(158.89deg, var(--color-royalblue-100), #0e234b);
+  	width: 42.938rem;
+  	height: 55.438rem;
+}
+.fitur-kamera {
+  	position: absolute;
+  	top: 7rem;
+  	left: 35.5rem;
+  	width: 44.188rem;
+  	height: 20rem;
+}
+.fitur-kamera-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	background-color: var(--color-royalblue-100);
+  	width: 44.188rem;
+  	height: 18.938rem;
+}
+.fitur-kamera-item {
+  	position: absolute;
+  	top: 17rem;
+  	left: 16.063rem;
+  	background-color: var(--color-gold);
+  	width: 23.125rem;
+  	height: 3rem;
+}
+.deteksi-objek-real-time {
+  	position: absolute;
+  	top: 2.25rem;
+  	left: 2.25rem;
+  	line-height: 100%;
+}
+.kamera-mendeteksi-objek {
+  	position: absolute;
+  	top: 6.25rem;
+  	left: 7.625rem;
+  	font-size: var(--font-size-28);
+  	line-height: 125%;
+  	font-weight: 500;
+  	color: var(--color-white);
+  	display: inline-block;
+  	width: 32.938rem;
+}
+.mockup-hp-icon {
+  	position: absolute;
+  	top: 8.813rem;
+  	left: 0rem;
+  	width: 30.313rem;
+  	height: 46.625rem;
+  	object-fit: cover;
+}
+.mockup-kamera-icon {
+  	position: absolute;
+  	top: 15.25rem;
+  	left: 17.813rem;
+  	width: 26.125rem;
+  	height: 40.188rem;
+  	object-fit: cover;
+}
+.landing-page-logo {
+  	position: absolute;
+  	top: 2rem;
+  	left: 15.313rem;
+  	width: 12.313rem;
+  	height: 6rem;
+  	font-size: var(--font-size-32);
+  	color: var(--color-white);
+}
+.landing-page-teman-difa {
+  	position: absolute;
+  	top: 1rem;
+  	left: 5.125rem;
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.landing-page-item {
+  	position: absolute;
+  	top: 127.188rem;
+  	left: 99.25rem;
+  	border-radius: 50%;
+  	background-color: var(--color-darkslateblue);
+  	width: 46.688rem;
+  	height: 46.688rem;
+}
+.problem-statment {
+  	position: absolute;
+  	top: 96.375rem;
+  	left: 5.438rem;
+  	width: 108.313rem;
+  	height: 48.688rem;
+  	font-size: 6rem;
+}
+.div {
+  	position: absolute;
+  	top: 41.438rem;
+  	left: 51.563rem;
+  	width: 56.75rem;
+  	height: 7.25rem;
+}
+.wrapper {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-10);
+  	background-color: var(--color-royalblue-100);
+  	border: 5px solid var(--color-royalblue-100);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: var(--padding-10);
+}
+.landing-page-div {
+  	position: relative;
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 0rem;
+  	left: 10.875rem;
+  	width: 45.875rem;
+  	height: 7.25rem;
+  	font-size: var(--font-size-40);
+  	color: var(--color-black);
+}
+.group-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-10);
+  	background-color: var(--color-white);
+  	border: 5px solid var(--color-royalblue-100);
+  	box-sizing: border-box;
+  	width: 46.5rem;
+  	height: 7.875rem;
+}
+.minimnya-teknologi-pendukung {
+  	position: absolute;
+  	top: 2.375rem;
+  	left: 2.375rem;
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.div2 {
+  	position: absolute;
+  	top: 31.688rem;
+  	left: 51.563rem;
+  	width: 56.75rem;
+  	height: 7.25rem;
+}
+.div5 {
+  	position: absolute;
+  	top: 21.938rem;
+  	left: 51.563rem;
+  	width: 56.75rem;
+  	height: 7.25rem;
+}
+.frame {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-10);
+  	background-color: var(--color-royalblue-100);
+  	border: 5px solid var(--color-royalblue-100);
+  	box-sizing: border-box;
+  	width: 9.75rem;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: var(--padding-10);
+}
+.div7 {
+  	position: absolute;
+  	top: 12.188rem;
+  	left: 51.563rem;
+  	width: 56.75rem;
+  	height: 7.25rem;
+}
+.div9 {
+  	position: absolute;
+  	top: 2.438rem;
+  	left: 51.563rem;
+  	width: 56.75rem;
+  	height: 7.25rem;
+}
+.indoensai {
+  	position: absolute;
+  	top: 25.938rem;
+  	left: 0.813rem;
+  	width: 46.375rem;
+  	height: 7.563rem;
+  	font-size: var(--font-size-24);
+  	color: var(--color-dimgray);
+}
+.indoensai-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 22.313rem;
+  	background-color: var(--color-gold);
+  	width: 4.813rem;
+  	height: 2rem;
+}
+.di-indonesia-terdapat-container {
+  	position: absolute;
+  	top: 0.063rem;
+  	left: 0rem;
+  	line-height: 125%;
+}
+.di-indonesia-terdapat {
+  	font-weight: 500;
+  	font-family: var(--font-poppins);
+  	color: var(--color-dimgray);
+}
+.juta {
+  	font-weight: 800;
+  	font-family: var(--font-poppins);
+  	color: var(--color-royalblue-100);
+}
+.penyandang-tunanetra {
+  	font-weight: 500;
+}
+.dengan-tambahan-jumlah {
+  	margin: 0;
+  	font-weight: 500;
+}
+.dunia {
+  	position: absolute;
+  	top: 17.875rem;
+  	left: 0.813rem;
+  	width: 47.375rem;
+  	height: 5.75rem;
+  	font-size: var(--font-size-24);
+  	color: var(--color-dimgray);
+}
+.dunia-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 25.563rem;
+  	background-color: var(--color-gold);
+  	width: 12.625rem;
+  	height: 2.125rem;
+}
+.secara-global-terdapat-container {
+  	position: absolute;
+  	top: 0.125rem;
+  	left: 0rem;
+  	line-height: 125%;
+}
+.latar-belakang {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	width: 46.813rem;
+  	height: 15.813rem;
+  	color: var(--color-royalblue-100);
+}
+.latar-belakang-child {
+  	position: absolute;
+  	top: 3.438rem;
+  	left: 0rem;
+  	background-color: var(--color-gold);
+  	width: 1.563rem;
+  	height: 12.375rem;
+}
+.latar-belakang-permasalahan-container {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0.813rem;
+  	line-height: 125%;
+  	font-weight: 600;
+}
+.about {
+  	position: absolute;
+  	top: 67.375rem;
+  	left: calc(50% - 755px);
+  	width: 94.375rem;
+  	height: 18rem;
+  	text-align: center;
+  	font-size: var(--font-size-32);
+  	color: var(--color-dimgray);
+}
+.temandifa-lahir-dari-container {
+  	position: absolute;
+  	top: 8rem;
+  	left: calc(50% - 755px);
+  	line-height: 125%;
+  	font-weight: 500;
+}
+.temandifa2 {
+  	position: absolute;
+  	top: 0rem;
+  	left: 34rem;
+  	width: 26.375rem;
+  	height: 4.5rem;
+  	text-align: left;
+  	font-size: var(--font-size-72);
+  	color: var(--color-royalblue-100);
+}
+.hero-section {
+  	position: absolute;
+  	top: -14.187rem;
+  	left: -17.812rem;
+  	width: 155.625rem;
+  	height: 95.875rem;
+}
+.bg {
+  	position: absolute;
+  	top: 24.063rem;
+  	left: 24.063rem;
+  	border-radius: 50px;
+  	background-color: var(--color-royalblue-100);
+  	width: 107.5rem;
+  	height: 47.75rem;
+}
+.hero-section-child {
+  	position: absolute;
+  	top: 95.875rem;
+  	left: 0rem;
+  	border-radius: 50%;
+  	background-color: var(--color-royalblue-200);
+  	width: 48.125rem;
+  	height: 48.125rem;
+}
+.hero-section-item {
+  	position: absolute;
+  	top: 0rem;
+  	left: 155.625rem;
+  	border-radius: 50%;
+  	background-color: var(--color-royalblue-200);
+  	width: 48.125rem;
+  	height: 48.125rem;
+  	transform:  rotate(180deg);
+  	transform-origin: 0 0;
+}
+.foto-tengah {
+  	position: absolute;
+  	top: 23.125rem;
+  	left: 92.5rem;
+  	width: 21.063rem;
+  	height: 46rem;
+  	display: none;
+}
+.foto-tengah-child {
+  	position: absolute;
+  	top: 3.563rem;
+  	left: 0.063rem;
+  	border-radius: var(--br-20);
+  	background-color: var(--color-royalblue-100);
+  	border: 2px solid var(--color-white);
+  	box-sizing: border-box;
+  	width: 16rem;
+  	height: 42.688rem;
+  	display: none;
+}
+.mockup-atas-icon {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0.063rem;
+  	width: 21rem;
+  	height: 42.375rem;
+  	object-fit: cover;
+}
+.mockup-bawah-icon {
+  	position: absolute;
+  	top: 19.438rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	width: 21rem;
+  	height: 26.563rem;
+  	object-fit: cover;
+}
+.foto-kanan {
+  	position: absolute;
+  	top: 26.688rem;
+  	left: 72.438rem;
+  	width: 28.5rem;
+  	height: 42.438rem;
+}
+.foto-kanan-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 12.75rem;
+  	border-radius: var(--br-20);
+  	background-color: var(--color-gray);
+  	border: 3px solid var(--color-white);
+  	box-sizing: border-box;
+  	width: 16.125rem;
+  	height: 42.813rem;
+}
+.bg-kanan-icon {
+  	position: absolute;
+  	top: 0rem;
+  	left: 12.75rem;
+  	border-radius: var(--br-20);
+  	width: 15.75rem;
+  	height: 42.438rem;
+  	object-fit: cover;
+}
+.orang-kanan-icon {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	width: 28.5rem;
+  	height: 42.438rem;
+  	object-fit: cover;
+}
+.foto-kiri {
+  	position: absolute;
+  	top: 26.688rem;
+  	left: 102.438rem;
+  	width: 25.625rem;
+  	height: 42.438rem;
+}
+.foto-kiri-child {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	background-color: var(--color-gray);
+  	border: 3px solid var(--color-white);
+  	box-sizing: border-box;
+  	width: 16.125rem;
+  	height: 42.813rem;
+}
+.bg-kiri-icon {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	width: 15.75rem;
+  	height: 42.438rem;
+  	object-fit: cover;
+}
+.orang-kiri-icon {
+  	position: absolute;
+  	top: 0rem;
+  	left: 0rem;
+  	border-radius: var(--br-20);
+  	width: 25.625rem;
+  	height: 42.438rem;
+  	object-fit: cover;
+}
+.sebuah-kesempatan-yang-container {
+  	position: absolute;
+  	top: 51.625rem;
+  	left: 29.938rem;
+}
+.aksesbilitas-nyata-inklusi {
+  	position: absolute;
+  	top: 47.063rem;
+  	left: 30.063rem;
+  	font-size: var(--font-size-32);
+  	font-weight: 600;
+  	color: var(--color-gold);
+}
+.teman-difacom {
+  	position: absolute;
+  	top: 28.313rem;
+  	left: 30.063rem;
+  	font-size: 9.375rem;
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.navbar {
+  	position: absolute;
+  	top: 4.25rem;
+  	left: 80.563rem;
+  	width: 30.313rem;
+  	height: 3.125rem;
+  	color: var(--color-royalblue-100);
+}
+.kontak {
+  	position: absolute;
+  	top: 0rem;
+  	left: 21.375rem;
+  	border-radius: var(--br-10);
+  	background-color: var(--color-royalblue-100);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 0.937rem 2.187rem;
+  	color: var(--color-white);
+}
+.produk2 {
+  	position: absolute;
+  	top: 0.938rem;
+  	left: 14.875rem;
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.tentang {
+  	position: absolute;
+  	top: 0.938rem;
+  	left: 7.5rem;
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.landing-page-beranda {
+  	position: absolute;
+  	top: 0.938rem;
+  	left: 0rem;
+  	line-height: 100%;
+  	font-weight: 600;
+}
+.logo2 {
+  	position: absolute;
+  	top: 2.938rem;
+  	left: 7.438rem;
+  	width: 9.625rem;
+  	height: 6rem;
+  	color: var(--color-royalblue-100);
+}
+
